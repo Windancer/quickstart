@@ -26,7 +26,7 @@ Node安装地址</a>
 ## 快速开始
 
 ```bash
-git clone  https://github.com/angular/quickstart  my-proj
+git clone  https://github.com/jf3096/quickstart.git  my-proj
 cd my-proj
 ```
 
